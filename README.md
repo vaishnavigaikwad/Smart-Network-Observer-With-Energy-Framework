@@ -5,7 +5,7 @@ A Network Observer which would provide maximum details about the network to the 
 ![p1](https://user-images.githubusercontent.com/69101586/184504707-9ca29f44-57d2-4963-9573-3ae1f3308014.png)
 
 ```
-                                                               Login Window
+                                               Login Window
 ```
 
 Smart Network Observer will help the Admin in fulfilling these tasks. It provides the following functionalities:
@@ -27,7 +27,7 @@ vii. Shutting down or restarting selected client machines.
 ![p2](https://user-images.githubusercontent.com/69101586/184504889-a1d117d8-b977-43bd-82c3-e3ea8531e1f4.png)
 
 ```
-                                                            Flow Of Project
+                                                 Flow Of Project
 ```
 
 Modules of Project:
